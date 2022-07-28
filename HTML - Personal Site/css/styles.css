@@ -1,0 +1,21 @@
+
+body{
+  background-color: #EAF6F6;
+  color: #52616B;
+}
+h1 {
+  color: #11999E;
+}
+h3 {
+  color: #11999E;
+}
+hr {
+  border-style: dotted none none;
+  border-color: silver;
+  border-width: 5px;
+  width: 8%;
+}
+
+.circular {
+  border-radius: 100%;
+}
